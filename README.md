@@ -21,7 +21,7 @@ The purpose of this repository is to explore core DevOps practices through pract
 
 Each exercise is maintained in a separate directory to make its instructions, source code, and configuration files easy to locate.
 
-## Technologies Used
+ Technologies Used
 
 - **Containerization:** Docker
 - **Container Orchestration:** Kubernetes, Minikube, kubectl
